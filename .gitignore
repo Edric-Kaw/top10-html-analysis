@@ -1,0 +1,18 @@
+# Private source data — never commit or push.
+/source/
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+*.tsv
+
+# Generated dashboard contains embedded source records.
+/operations-insight.html
+
+# Local and temporary files.
+~$*
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
