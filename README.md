@@ -2,6 +2,10 @@
 
 Static, browser-based inventory analysis dashboard.
 
+## Live dashboard
+
+[Open the inventory analysis dashboard](https://edric-kaw.github.io/top10-html-analysis/)
+
 ## Public GitHub Pages build
 
 Generate a public-safe `index.html` with no embedded inventory records:
